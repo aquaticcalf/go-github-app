@@ -1,4 +1,4 @@
-module github.com/aquaticcalf/go-github-app
+module github.com/aquaticcalf/gogithubapp
 
 go 1.24.2
 
